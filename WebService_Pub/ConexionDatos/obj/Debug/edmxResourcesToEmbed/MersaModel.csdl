@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="mersaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="series_escaneadas">
+    <Key>
+      <PropertyRef Name="id_serie" />
+    </Key>
+    <Property Name="id_serie" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_usuario" Type="Int32" />
+    <Property Name="serie" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="placa" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tipo_usuarios">
+    <Key>
+      <PropertyRef Name="id_tipo" />
+    </Key>
+    <Property Name="id_tipo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre_tipo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="usuarios_adm" Relationship="Self.FK__usuarios___id_ti__07F6335A" FromRole="tipo_usuarios" ToRole="usuarios_adm" />
+  </EntityType>
+  <EntityType Name="usuarios_adm">
+    <Key>
+      <PropertyRef Name="id_usuario" />
+    </Key>
+    <Property Name="id_usuario" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="dui" Type="String" MaxLength="9" FixedLength="false" Unicode="false" />
+    <Property Name="id_tipo" Type="Int32" Nullable="false" />
+    <Property Name="nombre" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="apellidos" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="contra" Type="String" MaxLength="8" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="tipo_usuarios" Relationship="Self.FK__usuarios___id_ti__07F6335A" FromRole="usuarios_adm" ToRole="tipo_usuarios" />
+  </EntityType>
+  <EntityType Name="usuarios_trans">
+    <Key>
+      <PropertyRef Name="id_transportista" />
+    </Key>
+    <Property Name="id_transportista" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="dui" Type="String" MaxLength="9" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="nombre" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="apellidos" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="placa" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <Association Name="FK__usuarios___id_ti__07F6335A">
+    <End Role="tipo_usuarios" Type="Self.tipo_usuarios" Multiplicity="1" />
+    <End Role="usuarios_adm" Type="Self.usuarios_adm" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tipo_usuarios">
+        <PropertyRef Name="id_tipo" />
+      </Principal>
+      <Dependent Role="usuarios_adm">
+        <PropertyRef Name="id_tipo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="mersaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="series_escaneadas" EntityType="Self.series_escaneadas" />
+    <EntitySet Name="tipo_usuarios" EntityType="Self.tipo_usuarios" />
+    <EntitySet Name="usuarios_adm" EntityType="Self.usuarios_adm" />
+    <EntitySet Name="usuarios_trans" EntityType="Self.usuarios_trans" />
+    <AssociationSet Name="FK__usuarios___id_ti__07F6335A" Association="Self.FK__usuarios___id_ti__07F6335A">
+      <End Role="tipo_usuarios" EntitySet="tipo_usuarios" />
+      <End Role="usuarios_adm" EntitySet="usuarios_adm" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="sacModelStoreContainer" CdmEntityContainer="sacEntities">
+    <EntitySetMapping Name="tbl_activos">
+      <EntityTypeMapping TypeName="sacModel.tbl_activos">
+        <MappingFragment StoreEntitySet="tbl_activos">
+          <ScalarProperty Name="id_agencia" ColumnName="id_agencia" />
+          <ScalarProperty Name="id_serie" ColumnName="id_serie" />
+          <ScalarProperty Name="id_ficha" ColumnName="id_ficha" />
+          <ScalarProperty Name="id_sio" ColumnName="id_sio" />
+          <ScalarProperty Name="id_fabricante" ColumnName="id_fabricante" />
+          <ScalarProperty Name="id_tipo" ColumnName="id_tipo" />
+          <ScalarProperty Name="id_modelo" ColumnName="id_modelo" />
+          <ScalarProperty Name="id_marca" ColumnName="id_marca" />
+          <ScalarProperty Name="id_logotipo" ColumnName="id_logotipo" />
+          <ScalarProperty Name="foto" ColumnName="foto" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+          <ScalarProperty Name="no_contrato" ColumnName="no_contrato" />
+          <ScalarProperty Name="fabricado" ColumnName="fabricado" />
+          <ScalarProperty Name="fecha_alta" ColumnName="fecha_alta" />
+          <ScalarProperty Name="tiene_imagen" ColumnName="tiene_imagen" />
+          <ScalarProperty Name="id_negocio" ColumnName="id_negocio" />
+          <ScalarProperty Name="trasladado" ColumnName="trasladado" />
+          <ScalarProperty Name="fecha_traslado" ColumnName="fecha_traslado" />
+          <ScalarProperty Name="id_orden_traslado" ColumnName="id_orden_traslado" />
+          <ScalarProperty Name="fecha_orden_traslado" ColumnName="fecha_orden_traslado" />
+          <ScalarProperty Name="viejo" ColumnName="viejo" />
+          <ScalarProperty Name="visitado" ColumnName="visitado" />
+          <ScalarProperty Name="id_orden_trabajo" ColumnName="id_orden_trabajo" />
+          <ScalarProperty Name="hora" ColumnName="hora" />
+          <ScalarProperty Name="dia" ColumnName="dia" />
+          <ScalarProperty Name="fecha_visita" ColumnName="fecha_visita" />
+          <ScalarProperty Name="vuelta" ColumnName="vuelta" />
+          <ScalarProperty Name="id_problema" ColumnName="id_problema" />
+          <ScalarProperty Name="id_activo" ColumnName="id_activo" />
+          <ScalarProperty Name="instalacion" ColumnName="instalacion" />
+          <ScalarProperty Name="fecha_instalacion" ColumnName="fecha_instalacion" />
+          <ScalarProperty Name="etiqueta" ColumnName="etiqueta" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tbl_modelos">
+      <EntityTypeMapping TypeName="sacModel.tbl_modelos">
+        <MappingFragment StoreEntitySet="tbl_modelos">
+          <ScalarProperty Name="id_agencia" ColumnName="id_agencia" />
+          <ScalarProperty Name="id_modelo" ColumnName="id_modelo" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="costo" ColumnName="costo" />
+          <ScalarProperty Name="trasladado" ColumnName="trasladado" />
+          <ScalarProperty Name="fecha_traslado" ColumnName="fecha_traslado" />
+          <ScalarProperty Name="linea" ColumnName="linea" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

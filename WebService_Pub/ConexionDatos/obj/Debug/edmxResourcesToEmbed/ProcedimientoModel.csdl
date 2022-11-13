@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="sacProcedimientoModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="sacProcedimientoEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="SacSeriesWebService" ReturnType="Collection(sacProcedimientoModel.SacSeriesWebService_Result)" />
+  </EntityContainer>
+  <ComplexType Name="SacSeriesWebService_Result">
+    <Property Type="String" Name="SERIE" Nullable="false" MaxLength="20" />
+    <Property Type="String" Name="ACTIVO" Nullable="true" MaxLength="20" />
+    <Property Type="String" Name="FICHA" Nullable="false" MaxLength="20" />
+    <Property Type="String" Name="MODELO" Nullable="false" MaxLength="30" />
+    <Property Type="String" Name="LINEA" Nullable="true" MaxLength="10" />
+  </ComplexType>
+</Schema>

@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="sacModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="tbl_activos">
+          <Key>
+            <PropertyRef Name="id_agencia" />
+            <PropertyRef Name="id_serie" />
+          </Key>
+          <Property Name="id_agencia" Type="int" Nullable="false" />
+          <Property Name="id_serie" Type="char" MaxLength="20" Nullable="false" />
+          <Property Name="id_ficha" Type="char" MaxLength="20" />
+          <Property Name="id_sio" Type="char" MaxLength="20" />
+          <Property Name="id_fabricante" Type="int" Nullable="false" />
+          <Property Name="id_tipo" Type="tinyint" Nullable="false" />
+          <Property Name="id_modelo" Type="tinyint" Nullable="false" />
+          <Property Name="id_marca" Type="tinyint" Nullable="false" />
+          <Property Name="id_logotipo" Type="tinyint" Nullable="false" />
+          <Property Name="foto" Type="image" />
+          <Property Name="estado" Type="int" Nullable="false" />
+          <Property Name="no_contrato" Type="char" MaxLength="30" />
+          <Property Name="fabricado" Type="int" />
+          <Property Name="fecha_alta" Type="datetime" />
+          <Property Name="tiene_imagen" Type="int" Nullable="false" />
+          <Property Name="id_negocio" Type="int" Nullable="false" />
+          <Property Name="trasladado" Type="int" Nullable="false" />
+          <Property Name="fecha_traslado" Type="datetime" />
+          <Property Name="id_orden_traslado" Type="int" Nullable="false" />
+          <Property Name="fecha_orden_traslado" Type="datetime" />
+          <Property Name="viejo" Type="int" Nullable="false" />
+          <Property Name="visitado" Type="int" Nullable="false" />
+          <Property Name="id_orden_trabajo" Type="int" Nullable="false" />
+          <Property Name="hora" Type="char" MaxLength="5" />
+          <Property Name="dia" Type="int" Nullable="false" />
+          <Property Name="fecha_visita" Type="datetime" />
+          <Property Name="vuelta" Type="int" />
+          <Property Name="id_problema" Type="int" Nullable="false" />
+          <Property Name="id_activo" Type="char" MaxLength="20" />
+          <Property Name="instalacion" Type="char" MaxLength="2" />
+          <Property Name="fecha_instalacion" Type="datetime" />
+          <Property Name="etiqueta" Type="char" MaxLength="2" />
+        </EntityType>
+        <EntityType Name="tbl_modelos">
+          <Key>
+            <PropertyRef Name="id_agencia" />
+            <PropertyRef Name="id_modelo" />
+          </Key>
+          <Property Name="id_agencia" Type="int" Nullable="false" />
+          <Property Name="id_modelo" Type="int" Nullable="false" />
+          <Property Name="descripcion" Type="char" MaxLength="30" Nullable="false" />
+          <Property Name="costo" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+          <Property Name="trasladado" Type="int" Nullable="false" />
+          <Property Name="fecha_traslado" Type="datetime" />
+          <Property Name="linea" Type="char" MaxLength="10" />
+        </EntityType>
+        <EntityContainer Name="sacModelStoreContainer">
+          <EntitySet Name="tbl_activos" EntityType="Self.tbl_activos" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tbl_modelos" EntityType="Self.tbl_modelos" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="sacModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="tbl_activos">
+          <Key>
+            <PropertyRef Name="id_agencia" />
+            <PropertyRef Name="id_serie" />
+          </Key>
+          <Property Name="id_agencia" Type="Int32" Nullable="false" />
+          <Property Name="id_serie" Type="String" MaxLength="20" FixedLength="true" Unicode="false" Nullable="false" />
+          <Property Name="id_ficha" Type="String" MaxLength="20" FixedLength="true" Unicode="false" />
+          <Property Name="id_sio" Type="String" MaxLength="20" FixedLength="true" Unicode="false" />
+          <Property Name="id_fabricante" Type="Int32" Nullable="false" />
+          <Property Name="id_tipo" Type="Byte" Nullable="false" />
+          <Property Name="id_modelo" Type="Byte" Nullable="false" />
+          <Property Name="id_marca" Type="Byte" Nullable="false" />
+          <Property Name="id_logotipo" Type="Byte" Nullable="false" />
+          <Property Name="foto" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <Property Name="estado" Type="Int32" Nullable="false" />
+          <Property Name="no_contrato" Type="String" MaxLength="30" FixedLength="true" Unicode="false" />
+          <Property Name="fabricado" Type="Int32" />
+          <Property Name="fecha_alta" Type="DateTime" Precision="3" />
+          <Property Name="tiene_imagen" Type="Int32" Nullable="false" />
+          <Property Name="id_negocio" Type="Int32" Nullable="false" />
+          <Property Name="trasladado" Type="Int32" Nullable="false" />
+          <Property Name="fecha_traslado" Type="DateTime" Precision="3" />
+          <Property Name="id_orden_traslado" Type="Int32" Nullable="false" />
+          <Property Name="fecha_orden_traslado" Type="DateTime" Precision="3" />
+          <Property Name="viejo" Type="Int32" Nullable="false" />
+          <Property Name="visitado" Type="Int32" Nullable="false" />
+          <Property Name="id_orden_trabajo" Type="Int32" Nullable="false" />
+          <Property Name="hora" Type="String" MaxLength="5" FixedLength="true" Unicode="false" />
+          <Property Name="dia" Type="Int32" Nullable="false" />
+          <Property Name="fecha_visita" Type="DateTime" Precision="3" />
+          <Property Name="vuelta" Type="Int32" />
+          <Property Name="id_problema" Type="Int32" Nullable="false" />
+          <Property Name="id_activo" Type="String" MaxLength="20" FixedLength="true" Unicode="false" />
+          <Property Name="instalacion" Type="String" MaxLength="2" FixedLength="true" Unicode="false" />
+          <Property Name="fecha_instalacion" Type="DateTime" Precision="3" />
+          <Property Name="etiqueta" Type="String" MaxLength="2" FixedLength="true" Unicode="false" />
+        </EntityType>
+        <EntityType Name="tbl_modelos">
+          <Key>
+            <PropertyRef Name="id_agencia" />
+            <PropertyRef Name="id_modelo" />
+          </Key>
+          <Property Name="id_agencia" Type="Int32" Nullable="false" />
+          <Property Name="id_modelo" Type="Int32" Nullable="false" />
+          <Property Name="descripcion" Type="String" MaxLength="30" FixedLength="true" Unicode="false" Nullable="false" />
+          <Property Name="costo" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+          <Property Name="trasladado" Type="Int32" Nullable="false" />
+          <Property Name="fecha_traslado" Type="DateTime" Precision="3" />
+          <Property Name="linea" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+        </EntityType>
+        <EntityContainer Name="sacEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="tbl_activos" EntityType="Self.tbl_activos" />
+          <EntitySet Name="tbl_modelos" EntityType="Self.tbl_modelos" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="sacModelStoreContainer" CdmEntityContainer="sacEntities">
+          <EntitySetMapping Name="tbl_activos">
+            <EntityTypeMapping TypeName="sacModel.tbl_activos">
+              <MappingFragment StoreEntitySet="tbl_activos">
+                <ScalarProperty Name="id_agencia" ColumnName="id_agencia" />
+                <ScalarProperty Name="id_serie" ColumnName="id_serie" />
+                <ScalarProperty Name="id_ficha" ColumnName="id_ficha" />
+                <ScalarProperty Name="id_sio" ColumnName="id_sio" />
+                <ScalarProperty Name="id_fabricante" ColumnName="id_fabricante" />
+                <ScalarProperty Name="id_tipo" ColumnName="id_tipo" />
+                <ScalarProperty Name="id_modelo" ColumnName="id_modelo" />
+                <ScalarProperty Name="id_marca" ColumnName="id_marca" />
+                <ScalarProperty Name="id_logotipo" ColumnName="id_logotipo" />
+                <ScalarProperty Name="foto" ColumnName="foto" />
+                <ScalarProperty Name="estado" ColumnName="estado" />
+                <ScalarProperty Name="no_contrato" ColumnName="no_contrato" />
+                <ScalarProperty Name="fabricado" ColumnName="fabricado" />
+                <ScalarProperty Name="fecha_alta" ColumnName="fecha_alta" />
+                <ScalarProperty Name="tiene_imagen" ColumnName="tiene_imagen" />
+                <ScalarProperty Name="id_negocio" ColumnName="id_negocio" />
+                <ScalarProperty Name="trasladado" ColumnName="trasladado" />
+                <ScalarProperty Name="fecha_traslado" ColumnName="fecha_traslado" />
+                <ScalarProperty Name="id_orden_traslado" ColumnName="id_orden_traslado" />
+                <ScalarProperty Name="fecha_orden_traslado" ColumnName="fecha_orden_traslado" />
+                <ScalarProperty Name="viejo" ColumnName="viejo" />
+                <ScalarProperty Name="visitado" ColumnName="visitado" />
+                <ScalarProperty Name="id_orden_trabajo" ColumnName="id_orden_trabajo" />
+                <ScalarProperty Name="hora" ColumnName="hora" />
+                <ScalarProperty Name="dia" ColumnName="dia" />
+                <ScalarProperty Name="fecha_visita" ColumnName="fecha_visita" />
+                <ScalarProperty Name="vuelta" ColumnName="vuelta" />
+                <ScalarProperty Name="id_problema" ColumnName="id_problema" />
+                <ScalarProperty Name="id_activo" ColumnName="id_activo" />
+                <ScalarProperty Name="instalacion" ColumnName="instalacion" />
+                <ScalarProperty Name="fecha_instalacion" ColumnName="fecha_instalacion" />
+                <ScalarProperty Name="etiqueta" ColumnName="etiqueta" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tbl_modelos">
+            <EntityTypeMapping TypeName="sacModel.tbl_modelos">
+              <MappingFragment StoreEntitySet="tbl_modelos">
+                <ScalarProperty Name="id_agencia" ColumnName="id_agencia" />
+                <ScalarProperty Name="id_modelo" ColumnName="id_modelo" />
+                <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+                <ScalarProperty Name="costo" ColumnName="costo" />
+                <ScalarProperty Name="trasladado" ColumnName="trasladado" />
+                <ScalarProperty Name="fecha_traslado" ColumnName="fecha_traslado" />
+                <ScalarProperty Name="linea" ColumnName="linea" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Ninguno" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

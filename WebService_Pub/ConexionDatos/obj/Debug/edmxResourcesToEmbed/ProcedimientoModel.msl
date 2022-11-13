@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="sacProcedimientoModelStoreContainer" CdmEntityContainer="sacProcedimientoEntities">
+    <FunctionImportMapping FunctionImportName="SacSeriesWebService" FunctionName="sacProcedimientoModel.Store.SacSeriesWebService">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="sacProcedimientoModel.SacSeriesWebService_Result">
+          <ScalarProperty Name="SERIE" ColumnName="SERIE" />
+          <ScalarProperty Name="ACTIVO" ColumnName="ACTIVO" />
+          <ScalarProperty Name="FICHA" ColumnName="FICHA" />
+          <ScalarProperty Name="MODELO" ColumnName="MODELO" />
+          <ScalarProperty Name="LINEA" ColumnName="LINEA" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

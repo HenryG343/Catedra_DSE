@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="mersaModelStoreContainer" CdmEntityContainer="mersaEntities">
+    <EntitySetMapping Name="series_escaneadas">
+      <EntityTypeMapping TypeName="mersaModel.series_escaneadas">
+        <MappingFragment StoreEntitySet="series_escaneadas">
+          <ScalarProperty Name="id_serie" ColumnName="id_serie" />
+          <ScalarProperty Name="id_usuario" ColumnName="id_usuario" />
+          <ScalarProperty Name="serie" ColumnName="serie" />
+          <ScalarProperty Name="placa" ColumnName="placa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tipo_usuarios">
+      <EntityTypeMapping TypeName="mersaModel.tipo_usuarios">
+        <MappingFragment StoreEntitySet="tipo_usuarios">
+          <ScalarProperty Name="id_tipo" ColumnName="id_tipo" />
+          <ScalarProperty Name="nombre_tipo" ColumnName="nombre_tipo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="usuarios_adm">
+      <EntityTypeMapping TypeName="mersaModel.usuarios_adm">
+        <MappingFragment StoreEntitySet="usuarios_adm">
+          <ScalarProperty Name="id_usuario" ColumnName="id_usuario" />
+          <ScalarProperty Name="dui" ColumnName="dui" />
+          <ScalarProperty Name="id_tipo" ColumnName="id_tipo" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="apellidos" ColumnName="apellidos" />
+          <ScalarProperty Name="contra" ColumnName="contra" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="usuarios_trans">
+      <EntityTypeMapping TypeName="mersaModel.usuarios_trans">
+        <MappingFragment StoreEntitySet="usuarios_trans">
+          <ScalarProperty Name="id_transportista" ColumnName="id_transportista" />
+          <ScalarProperty Name="dui" ColumnName="dui" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="apellidos" ColumnName="apellidos" />
+          <ScalarProperty Name="placa" ColumnName="placa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

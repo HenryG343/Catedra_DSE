@@ -1,0 +1,374 @@
+D:\Mercadeo y Refrigeracion Pasantias\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.exe.config
+D:\Mercadeo y Refrigeracion Pasantias\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.exe
+D:\Mercadeo y Refrigeracion Pasantias\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.pdb
+D:\Mercadeo y Refrigeracion Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csprojAssemblyReference.cache
+D:\Mercadeo y Refrigeracion Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.frmPrincipal.resources
+D:\Mercadeo y Refrigeracion Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Properties.Resources.resources
+D:\Mercadeo y Refrigeracion Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.GenerateResource.cache
+D:\Mercadeo y Refrigeracion Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.CoreCompileInputs.cache
+D:\Mercadeo y Refrigeracion Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.exe
+D:\Mercadeo y Refrigeracion Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.pdb
+C:\Users\Administrador\Downloads\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csprojAssemblyReference.cache
+C:\Users\Administrador\Downloads\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.frmPrincipal.resources
+C:\Users\Administrador\Downloads\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.GenerateResource.cache
+C:\Users\Administrador\Downloads\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.exe
+C:\Users\Administrador\Downloads\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.pdb
+C:\Users\Administrador\Downloads\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.exe.config
+C:\Users\Administrador\Downloads\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.exe
+C:\Users\Administrador\Downloads\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.pdb
+C:\Users\Administrador\Downloads\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Properties.Resources.resources
+C:\Users\Administrador\Downloads\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.CoreCompileInputs.cache
+D:\Mercadeo y Refrigeracion Pasantias\Applicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.exe.config
+D:\Mercadeo y Refrigeracion Pasantias\Applicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.exe
+D:\Mercadeo y Refrigeracion Pasantias\Applicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.pdb
+D:\Mercadeo y Refrigeracion Pasantias\Applicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csprojAssemblyReference.cache
+D:\Mercadeo y Refrigeracion Pasantias\Applicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.frmPrincipal.resources
+D:\Mercadeo y Refrigeracion Pasantias\Applicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Properties.Resources.resources
+D:\Mercadeo y Refrigeracion Pasantias\Applicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.GenerateResource.cache
+D:\Mercadeo y Refrigeracion Pasantias\Applicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.CoreCompileInputs.cache
+D:\Mercadeo y Refrigeracion Pasantias\Applicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.exe
+D:\Mercadeo y Refrigeracion Pasantias\Applicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.pdb
+C:\Users\Administrador\Desktop\Pasantias\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.exe.config
+C:\Users\Administrador\Desktop\Pasantias\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.exe
+C:\Users\Administrador\Desktop\Pasantias\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.pdb
+C:\Users\Administrador\Desktop\Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.frmPrincipal.resources
+C:\Users\Administrador\Desktop\Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.exe
+C:\Users\Administrador\Desktop\Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.pdb
+C:\Users\Administrador\Desktop\Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Login.resources
+D:\Mercadeo y Refrigeracion Pasantias\Applicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.frmUsuarios.resources
+D:\Mercadeo y Refrigeracion Pasantias\Applicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Login.resources
+C:\Users\Administrador\Desktop\Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.frmUsuarios.resources
+D:\Mercadeo y Refrigeracion Pasantias\Applicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Menu.resources
+C:\Users\Administrador\Desktop\Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Menu.resources
+C:\Users\Administrador\OneDrive\Escritorio\Pasantias\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.exe.config
+C:\Users\Administrador\OneDrive\Escritorio\Pasantias\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.exe
+C:\Users\Administrador\OneDrive\Escritorio\Pasantias\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.pdb
+C:\Users\Administrador\OneDrive\Escritorio\Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csprojAssemblyReference.cache
+C:\Users\Administrador\OneDrive\Escritorio\Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.frmPrincipal.resources
+C:\Users\Administrador\OneDrive\Escritorio\Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.frmUsuarios.resources
+C:\Users\Administrador\OneDrive\Escritorio\Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Login.resources
+C:\Users\Administrador\OneDrive\Escritorio\Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Menu.resources
+C:\Users\Administrador\OneDrive\Escritorio\Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Properties.Resources.resources
+C:\Users\Administrador\OneDrive\Escritorio\Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.GenerateResource.cache
+C:\Users\Administrador\OneDrive\Escritorio\Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\OneDrive\Escritorio\Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.exe
+C:\Users\Administrador\OneDrive\Escritorio\Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.pdb
+C:\Users\Administrador\OneDrive\Escritorio\Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Buscador.resources
+C:\Users\Administrador\OneDrive\Escritorio\Pasantias\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.BuscadorUsuarios.resources
+C:\Users\JGS\Documents\MEGAsync Downloads\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.exe.config
+C:\Users\JGS\Documents\MEGAsync Downloads\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.exe
+C:\Users\JGS\Documents\MEGAsync Downloads\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.pdb
+C:\Users\JGS\Documents\MEGAsync Downloads\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csprojAssemblyReference.cache
+C:\Users\JGS\Documents\MEGAsync Downloads\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Buscador.resources
+C:\Users\JGS\Documents\MEGAsync Downloads\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.BuscadorUsuarios.resources
+C:\Users\JGS\Documents\MEGAsync Downloads\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.frmPrincipal.resources
+C:\Users\JGS\Documents\MEGAsync Downloads\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.frmUsuarios.resources
+C:\Users\JGS\Documents\MEGAsync Downloads\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Login.resources
+C:\Users\JGS\Documents\MEGAsync Downloads\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Menu.resources
+C:\Users\JGS\Documents\MEGAsync Downloads\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Properties.Resources.resources
+C:\Users\JGS\Documents\MEGAsync Downloads\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.GenerateResource.cache
+C:\Users\JGS\Documents\MEGAsync Downloads\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.CoreCompileInputs.cache
+C:\Users\JGS\Documents\MEGAsync Downloads\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.exe
+C:\Users\JGS\Documents\MEGAsync Downloads\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.pdb
+C:\Users\Administrador\Downloads\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Buscador.resources
+C:\Users\Administrador\Downloads\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.BuscadorUsuarios.resources
+C:\Users\Administrador\Downloads\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.frmUsuarios.resources
+C:\Users\Administrador\Downloads\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Login.resources
+C:\Users\Administrador\Downloads\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Menu.resources
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Nueva carpeta\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.exe.config
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Nueva carpeta\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.exe
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Nueva carpeta\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.pdb
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Nueva carpeta\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csprojAssemblyReference.cache
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Nueva carpeta\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Buscador.resources
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Nueva carpeta\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.BuscadorUsuarios.resources
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Nueva carpeta\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.frmPrincipal.resources
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Nueva carpeta\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.frmUsuarios.resources
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Nueva carpeta\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Login.resources
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Nueva carpeta\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Menu.resources
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Nueva carpeta\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Properties.Resources.resources
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Nueva carpeta\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.GenerateResource.cache
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Nueva carpeta\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.CoreCompileInputs.cache
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Nueva carpeta\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.exe
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Nueva carpeta\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.pdb
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csprojAssemblyReference.cache
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Buscador.resources
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.BuscadorUsuarios.resources
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.frmPrincipal.resources
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.frmUsuarios.resources
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Login.resources
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Menu.resources
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Properties.Resources.resources
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.GenerateResource.cache
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.exe
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.pdb
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.exe.config
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.exe
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.pdb
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\bin\Debug\Microsoft.Pex.Framework.dll
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\bin\Debug\Microsoft.ExtendedReflection.dll
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\bin\Debug\Microsoft.Pex.Framework.xml
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\bin\Debug\es\Microsoft.Pex.Framework.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\bin\Debug\es\Microsoft.ExtendedReflection.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.CoreCompileInputs.cache
+D:\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\12-1-2021\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.CopyComplete
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csprojAssemblyReference.cache
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Buscador.resources
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.BuscadorUsuarios.resources
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.frmPrincipal.resources
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.frmUsuarios.resources
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Login.resources
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Menu.resources
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Properties.Resources.resources
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.GenerateResource.cache
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\obj\Debug\RdlCompile.cache
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\obj\Debug\RdlCompile.compiled
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.exe
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.pdb
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.exe.config
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.exe
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.pdb
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\Microsoft.ExtendedReflection.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\EnvDTE.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\stdole.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\Microsoft.MSXML.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\Microsoft.Pex.Framework.xml
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\es\Microsoft.Pex.Framework.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\bin\Debug\es\Microsoft.ExtendedReflection.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.CoreCompileInputs.cache
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.CopyComplete
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.VisorReporte.resources
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.VisorEmo.resources
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csprojAssemblyReference.cache
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Buscador.resources
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.BuscadorUsuarios.resources
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.frmPrincipal.resources
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.frmUsuarios.resources
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Login.resources
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Menu.resources
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Properties.Resources.resources
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.VisorEmo.resources
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.VisorReporte.resources
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.GenerateResource.cache
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\obj\Debug\RdlCompile.cache
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\obj\Debug\RdlCompile.compiled
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.CoreCompileInputs.cache
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.exe
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.pdb
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.exe.config
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.exe
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.pdb
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\Microsoft.ExtendedReflection.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\EnvDTE.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\stdole.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\Microsoft.MSXML.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\Microsoft.Pex.Framework.xml
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\es\Microsoft.Pex.Framework.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\bin\Debug\es\Microsoft.ExtendedReflection.resources.dll
+D:\Mercadeo y Refrigeracion Pasantias\REPORTES\c\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.CopyComplete
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.exe.config
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.exe
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\Mantenimiento_mersa.pdb
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\Microsoft.Pex.Framework.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\Microsoft.ExtendedReflection.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\EnvDTE.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\stdole.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\Microsoft.MSXML.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\Microsoft.Pex.Framework.xml
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\es\Microsoft.Pex.Framework.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\bin\Debug\es\Microsoft.ExtendedReflection.resources.dll
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.AssemblyReference.cache
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Buscador.resources
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.BuscadorUsuarios.resources
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.EmoVisor.resources
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.frmPrincipal.resources
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.frmUsuarios.resources
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.GenerarReporteTransportista.resources
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Login.resources
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Menu.resources
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.Properties.Resources.resources
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.VisorBol.resources
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.VisorComodatos.resources
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.VisorTransportistas.resources
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.GenerateResource.cache
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.CoreCompileInputs.cache
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.csproj.CopyComplete
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.exe
+E:\DSE\Catedra\Mercadeo y Refrigeracion Pasantias\Aplicacion-Windows-Forms\Mantenimiento_mersa\obj\Debug\Mantenimiento_mersa.pdb

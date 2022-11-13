@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="sacModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tbl_activos">
+    <Key>
+      <PropertyRef Name="id_agencia" />
+      <PropertyRef Name="id_serie" />
+    </Key>
+    <Property Name="id_agencia" Type="int" Nullable="false" />
+    <Property Name="id_serie" Type="char" MaxLength="20" Nullable="false" />
+    <Property Name="id_ficha" Type="char" MaxLength="20" />
+    <Property Name="id_sio" Type="char" MaxLength="20" />
+    <Property Name="id_fabricante" Type="int" Nullable="false" />
+    <Property Name="id_tipo" Type="tinyint" Nullable="false" />
+    <Property Name="id_modelo" Type="tinyint" Nullable="false" />
+    <Property Name="id_marca" Type="tinyint" Nullable="false" />
+    <Property Name="id_logotipo" Type="tinyint" Nullable="false" />
+    <Property Name="foto" Type="image" />
+    <Property Name="estado" Type="int" Nullable="false" />
+    <Property Name="no_contrato" Type="char" MaxLength="30" />
+    <Property Name="fabricado" Type="int" />
+    <Property Name="fecha_alta" Type="datetime" />
+    <Property Name="tiene_imagen" Type="int" Nullable="false" />
+    <Property Name="id_negocio" Type="int" Nullable="false" />
+    <Property Name="trasladado" Type="int" Nullable="false" />
+    <Property Name="fecha_traslado" Type="datetime" />
+    <Property Name="id_orden_traslado" Type="int" Nullable="false" />
+    <Property Name="fecha_orden_traslado" Type="datetime" />
+    <Property Name="viejo" Type="int" Nullable="false" />
+    <Property Name="visitado" Type="int" Nullable="false" />
+    <Property Name="id_orden_trabajo" Type="int" Nullable="false" />
+    <Property Name="hora" Type="char" MaxLength="5" />
+    <Property Name="dia" Type="int" Nullable="false" />
+    <Property Name="fecha_visita" Type="datetime" />
+    <Property Name="vuelta" Type="int" />
+    <Property Name="id_problema" Type="int" Nullable="false" />
+    <Property Name="id_activo" Type="char" MaxLength="20" />
+    <Property Name="instalacion" Type="char" MaxLength="2" />
+    <Property Name="fecha_instalacion" Type="datetime" />
+    <Property Name="etiqueta" Type="char" MaxLength="2" />
+  </EntityType>
+  <EntityType Name="tbl_modelos">
+    <Key>
+      <PropertyRef Name="id_agencia" />
+      <PropertyRef Name="id_modelo" />
+    </Key>
+    <Property Name="id_agencia" Type="int" Nullable="false" />
+    <Property Name="id_modelo" Type="int" Nullable="false" />
+    <Property Name="descripcion" Type="char" MaxLength="30" Nullable="false" />
+    <Property Name="costo" Type="decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="trasladado" Type="int" Nullable="false" />
+    <Property Name="fecha_traslado" Type="datetime" />
+    <Property Name="linea" Type="char" MaxLength="10" />
+  </EntityType>
+  <EntityContainer Name="sacModelStoreContainer">
+    <EntitySet Name="tbl_activos" EntityType="Self.tbl_activos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tbl_modelos" EntityType="Self.tbl_modelos" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

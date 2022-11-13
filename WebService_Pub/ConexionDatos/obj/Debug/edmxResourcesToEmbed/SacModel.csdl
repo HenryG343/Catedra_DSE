@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="sacModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tbl_activos">
+    <Key>
+      <PropertyRef Name="id_agencia" />
+      <PropertyRef Name="id_serie" />
+    </Key>
+    <Property Name="id_agencia" Type="Int32" Nullable="false" />
+    <Property Name="id_serie" Type="String" MaxLength="20" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="id_ficha" Type="String" MaxLength="20" FixedLength="true" Unicode="false" />
+    <Property Name="id_sio" Type="String" MaxLength="20" FixedLength="true" Unicode="false" />
+    <Property Name="id_fabricante" Type="Int32" Nullable="false" />
+    <Property Name="id_tipo" Type="Byte" Nullable="false" />
+    <Property Name="id_modelo" Type="Byte" Nullable="false" />
+    <Property Name="id_marca" Type="Byte" Nullable="false" />
+    <Property Name="id_logotipo" Type="Byte" Nullable="false" />
+    <Property Name="foto" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="estado" Type="Int32" Nullable="false" />
+    <Property Name="no_contrato" Type="String" MaxLength="30" FixedLength="true" Unicode="false" />
+    <Property Name="fabricado" Type="Int32" />
+    <Property Name="fecha_alta" Type="DateTime" Precision="3" />
+    <Property Name="tiene_imagen" Type="Int32" Nullable="false" />
+    <Property Name="id_negocio" Type="Int32" Nullable="false" />
+    <Property Name="trasladado" Type="Int32" Nullable="false" />
+    <Property Name="fecha_traslado" Type="DateTime" Precision="3" />
+    <Property Name="id_orden_traslado" Type="Int32" Nullable="false" />
+    <Property Name="fecha_orden_traslado" Type="DateTime" Precision="3" />
+    <Property Name="viejo" Type="Int32" Nullable="false" />
+    <Property Name="visitado" Type="Int32" Nullable="false" />
+    <Property Name="id_orden_trabajo" Type="Int32" Nullable="false" />
+    <Property Name="hora" Type="String" MaxLength="5" FixedLength="true" Unicode="false" />
+    <Property Name="dia" Type="Int32" Nullable="false" />
+    <Property Name="fecha_visita" Type="DateTime" Precision="3" />
+    <Property Name="vuelta" Type="Int32" />
+    <Property Name="id_problema" Type="Int32" Nullable="false" />
+    <Property Name="id_activo" Type="String" MaxLength="20" FixedLength="true" Unicode="false" />
+    <Property Name="instalacion" Type="String" MaxLength="2" FixedLength="true" Unicode="false" />
+    <Property Name="fecha_instalacion" Type="DateTime" Precision="3" />
+    <Property Name="etiqueta" Type="String" MaxLength="2" FixedLength="true" Unicode="false" />
+  </EntityType>
+  <EntityType Name="tbl_modelos">
+    <Key>
+      <PropertyRef Name="id_agencia" />
+      <PropertyRef Name="id_modelo" />
+    </Key>
+    <Property Name="id_agencia" Type="Int32" Nullable="false" />
+    <Property Name="id_modelo" Type="Int32" Nullable="false" />
+    <Property Name="descripcion" Type="String" MaxLength="30" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="costo" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="trasladado" Type="Int32" Nullable="false" />
+    <Property Name="fecha_traslado" Type="DateTime" Precision="3" />
+    <Property Name="linea" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="sacEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tbl_activos" EntityType="Self.tbl_activos" />
+    <EntitySet Name="tbl_modelos" EntityType="Self.tbl_modelos" />
+  </EntityContainer>
+</Schema>
